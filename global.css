@@ -1,0 +1,28 @@
+:root {
+  --rosa-katie: #e41cb2;
+  --amarelo-katie: #fdd54f;
+  --cinza-katie: #1f1f24;
+  --rosa-claro: #EF5AA7;
+  --branco:  #ffffff;
+  --blue: #5065c7;
+
+  --blue-hanna: #bee8f3;
+  --rosa-hanna: #eea8e5;
+  --roxo-hanna: #4e1f48;
+  --azulescuro-hanna: #2c38a5;
+  --verdeclaro-hanna: #7cdb74;
+  --amarelo-hanna: #eee344;
+  --preto-hanna: #000000;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px Arial, sans-serif;
+  color: #438d30;
+}
